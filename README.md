@@ -25,10 +25,10 @@ Chi tiết ở [three-option-design-sheet.md](three-option-design-sheet.md).
 - Chuẩn bị annotation cho người facilitate (`ANNOTATION.md`) và outcome task dùng chung: quan sát tester có tự tìm ra cách highlight, viết được bao nhiêu ghi chú trên tổng số highlight, có mở Sổ ghi chú và quay về slide nguồn, có xử lý nhóm "Chưa xác định được mục" và dùng hoàn tác hay không. Sau khi thực hiện phiên test, ghi hành vi và lời nói thật vào Feedback Note, tách observation khỏi interpretation, rồi cùng nhóm đối chiếu ba phiên test để chọn một Next Change và nêu những điều vẫn chưa được chứng minh.
 
 ## 5. Prototype Feedback
-- Feedback Note của phiên tôi facilitate: [prototype-feedback-note.md](prototype-feedback-note.md)
+- Feedback Note của phiên tôi facilitate: [prototype-feedback-note-vqbao.md](prototype-feedback-note-vqbao.md)
 - Tổng hợp ba feedback: [group-feedback-synthesis.md](group-feedback-synthesis.md)
-- **Next Change:** [điền sau khi tổng hợp]
-- **Still Unproven:** [điền sau khi tổng hợp]
+- **Next Change:** Làm rõ luồng chọn nội dung → chọn đích → tạo nháp → kiểm tra nguồn → duyệt; sửa panel bị cắt nội dung và kiểm tra lại fullscreen, chọn chữ nhiều dòng. Cho tester khác tạo bản ôn tập và tìm nguồn mà không hướng dẫn; thử coach riêng để đánh giá đúng giá trị tổng hợp của C.
+- **Still Unproven:** Chưa biết học viên có tự tìm công cụ, phát hiện và sửa ý sai trước khi duyệt hay không; chưa đo hiệu quả ôn tập hoặc thời gian tìm nguồn so với A/B. AI mock chưa chứng minh chất lượng model thật; coach khác thiết bị, kéo thả, sơ đồ, đồng bộ hai tab và mobile chưa được kiểm tra đầy đủ
 
 ## 6. AI Support Log
 [ai-support-log.md](ai-support-log.md)
