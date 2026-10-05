@@ -2,13 +2,13 @@
 
 **Họ tên người phỏng vấn:** Vũ Quốc Bảo 
 
-**Tester** Trịnh Quốc Hoàng
+**Tester:** Trịnh Quốc Hoàng
 
 ## 1. Thông tin phiên
 
 | Mục | Ghi chú |
 |---|---|
-| Ngày, giờ, địa điểm / hình thức (trực tiếp, online) | 5/10, 17:34, online qua Meet, chia sẻ màn hình |
+| Ngày, giờ, địa điểm / hình thức | 5/10, 17:34, online qua Meet, chia sẻ màn hình |
 | Tester là ai | Học viên track 2, có thói quen note các ý chính khi nghe giảng vào trong Notepad trên laptop |
 | Tester có từng gặp bối cảnh bài toán không | Có |
 | Thiết bị, trình duyệt | Laptop, Chrome |
